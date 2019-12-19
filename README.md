@@ -6,7 +6,7 @@ Project Name: _______ (suggestions welcome)
 Temp Name: CloneCraft C++
 
 Notes and plans available on google drive at
-https://drive.google.com/open?id=1apu40B_pfxQBOjtv4sgfWH6bFmoKDlKA'
+https://drive.google.com/open?id=1Nt2a6sRB-BfUCNmWh4yl6pfVhZrMk7V6
 
 -------------------------------------------------------
 
